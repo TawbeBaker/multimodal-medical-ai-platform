@@ -290,7 +290,10 @@ Reaching that level would require much more focused model training, validation o
 5. Improve modular design for specialty packs after chest workflow is stable.
 
 ## 14. License and contributions
-Pick a license before public release.
-MIT is a common choice for portfolio projects.
+This project is released under a BSD 4-Clause style attribution license.
+People can use, modify, and redistribute the work, but they must keep the license terms and include the required acknowledgement when they advertise or publicly mention software built from it.
+
+The acknowledgement text is included in the LICENSE file.
+In simple terms, use is allowed, but visible credit is required.
 
 If contributions are welcome, add a short contribution guide with local setup, coding style, and test expectations.
