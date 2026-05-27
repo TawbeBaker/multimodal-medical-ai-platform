@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and logs
+*.log
+
+# Model and runtime outputs
+outputs/*
+uploads/*
+
+# Keep folder structure if needed
+!outputs/.gitkeep
+!uploads/.gitkeep

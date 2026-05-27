@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy
+torch
+torchxrayvision
+opencv-python
+grad-cam
+ollama
