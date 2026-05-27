@@ -1,5 +1,7 @@
 # Radiology AI Workstation
 
+> Screenshots are included below.
+
 ## 1. Project summary
 I built this project as a local chest X ray proof of concept that can run on a personal machine.
 The goal is not only prediction, but also visibility into how the model reached a result.
